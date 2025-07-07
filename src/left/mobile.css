@@ -1,12 +1,12 @@
 @media (max-width: 375px) {
-    .sidebar {
-        display: none;
-    }
+  .sidebar {
+    display: none;
+  }
 
-    .mainbar {
-        width: 100%;
-        position: relative;
-        background-color: #1f1f1f;
-        flex-direction: column;
-    }
+  .mainbar {
+    width: 100%;
+    position: relative;
+    background-color: #1f1f1f;
+    flex-direction: column;
+  }
 }
